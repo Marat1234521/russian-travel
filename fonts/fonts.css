@@ -7,15 +7,15 @@
 
 @font-face {
     font-family: "Inter-Bold";
-    src: url("../fonts/Inter-Bold.ttf") format("truetype"); 
-    font-style: normal; 
+    src: url("../fonts/Inter-Bold.ttf") format("truetype");
+    font-style: normal;
     font-weight: 700;
 }
 
 @font-face {
-    font-family: "Inter-Black";  
-    src: url("../fonts/Inter-Black.ttf") format("truetype"); 
-    font-style: normal; 
+    font-family: "Inter-Black";
+    src: url("../fonts/Inter-Black.ttf") format("truetype");
+    font-style: normal;
     font-weight: 900;
 }
     
