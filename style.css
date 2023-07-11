@@ -239,6 +239,23 @@
     margin: 0;
     grid-column: 2 / 3;
     grid-row: 2 / 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.place__paragraph-one{
+    margin: 0;
+    color: #FFF;
+    font-size: 18px;
+    font-family: Inter-Regular;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 163%;
+}
+
+.place__paragraph-two{
+    margin: 0;
+    margin-top: 26px;
     color: #FFF;
     font-size: 18px;
     font-family: Inter-Regular;
