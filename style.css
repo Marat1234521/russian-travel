@@ -126,7 +126,7 @@
 }
 
 .intro__text {
-    margin: 40px auto auto 0;
+    margin: 40px auto 33px 0;
     width: 690px;
     color: #FFF;
     font-size: 16px;
@@ -137,9 +137,8 @@
 }
 
 .intro__list {
-    margin: 33px auto auto 0;
+    margin: 0 auto 0 0;
     width: 690px;
-    height: 90px;
     color: #FFF;
     font-size: 12px;
     font-family: Inter-Bold;
