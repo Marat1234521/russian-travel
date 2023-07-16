@@ -1,13 +1,9 @@
 .footer {
     margin: 92px 48px 24px 48px;
-    width: 92.5%;
-    height: 18px;
-}
-
-.footer > nav {
-    float: left;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    width: 92.5%;
 }
 
 @media screen and (max-width: 768px) {
@@ -15,18 +11,13 @@
         margin: 88px 24px 24px 24px;
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
     }
 }
 
 @media screen and (max-width: 660px) {
     .footer {
         margin: 64px auto 24px 16px;
-        height: 310px;
-        display: flex;
-        flex-direction: column;
-    }
-    
-    .footer > nav {
         display: flex;
         flex-direction: column;
     }

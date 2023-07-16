@@ -1,5 +1,6 @@
 .footer__link {
     margin: auto 18px auto 0;
+    width: fit-content;
     color: #FFF;
     font-size: 16px;
     font-family: Inter, Arial, sans-serif;

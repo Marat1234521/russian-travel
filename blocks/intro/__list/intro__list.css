@@ -10,10 +10,6 @@
     line-height: 18px;
 }
 
-.intro__list span {
-    font-weight: 400;
-}
-
 @media screen and (max-width: 660px) {
     .intro__list {
         margin: 0 auto 0 0;
