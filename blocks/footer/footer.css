@@ -9,16 +9,12 @@
 @media screen and (max-width: 768px) {
     .footer {
         margin: 88px 24px 24px 24px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
     }
 }
 
 @media screen and (max-width: 660px) {
     .footer {
         margin: 64px auto 24px 16px;
-        display: flex;
         flex-direction: column;
     }
 }

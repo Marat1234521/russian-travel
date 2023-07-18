@@ -1,6 +1,7 @@
 .lead__caption {
     margin: 8px auto auto 0;
-    width: 160px;
+    max-width: 160px;
+    width: 100%;
     color: #FFF;
     font-family: Inter, Arial, sans-serif;
     font-size: 10px;
