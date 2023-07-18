@@ -3,7 +3,7 @@
     margin-bottom: 80px;
     display: grid;
     grid-template-columns: 460px 1fr;
-    grid-template-rows: 1fr 100%;
+    grid-template-rows: max-content 1fr;
     column-gap: 40px;
     row-gap: 48px;
 }
@@ -11,7 +11,6 @@
 @media screen and (max-width: 1024px) {
     .place {
         grid-template-columns: 440px 1fr;
-        grid-template-rows: 1fr 100%;
         column-gap: 32px;
     }
 }
@@ -21,7 +20,6 @@
         margin: 0;
         margin-bottom: 72px;
         grid-template-columns: 340px 1fr;
-        grid-template-rows: 46px 1fr;
         column-gap: 28px;
     }
 }
